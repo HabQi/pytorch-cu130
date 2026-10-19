@@ -15,7 +15,7 @@
 
 **图 1：通过学习到的条件控制 Stable Diffusion。** ControlNet 允许用户加入 Canny 边缘（上排）、人体姿态（下排）等条件，控制大型预训练扩散模型的图像生成。默认结果使用提示词“一幅高质量、细节丰富且专业的图像”。用户也可以选择提供诸如“厨房里的厨师”等提示词。
 
-*图中文字：* Input Canny edge：输入 Canny 边缘；Input human pose：输入人体姿态；Default：默认；“masterpiece of fairy tale, giant deer, golden antlers”：童话杰作，巨鹿，金色鹿角；“…, quaint city Galic”：……，古朴的 Galic 城市；“chef in kitchen”：厨房里的厨师；“Lincoln statue”：林肯雕像。
+*图中文字：* Input Canny edge：输入 Canny 边缘；Input human pose：输入人体姿态；Default：默认；“masterpiece of fairy tale, giant deer, golden antlers”：童话杰作，巨鹿，金色鹿角；“…, quaint city Galic”：…，古朴的 Galic 城市；“chef in kitchen”：厨房里的厨师；“Lincoln statue”：林肯雕像。
 
 ## 摘要
 
